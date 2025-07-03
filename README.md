@@ -40,6 +40,7 @@ Rows with unrecoverable logic errors (e.g., a sale billed to a `store_id` that d
 │   ├── schema.sql           # PostgreSQL Star Schema definition
 │   ├── load_data.sql        # COPY commands for bulk loading
 │   └── analytics_queries.sql
+├── PowerBI_Guide.md         # Full implementation guide for the Power BI dashboard
 ├── .gitignore               
 └── README.md
 ```

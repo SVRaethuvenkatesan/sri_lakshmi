@@ -3,3 +3,4 @@ _archive/
 __pycache__/
 data/
 *.csv
+.vscode/
